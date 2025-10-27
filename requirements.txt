@@ -1,0 +1,8 @@
+streamlit
+faster-whisper
+yt-dlp
+transformers
+torch
+sentencepiece
+ffmpeg-python
+
